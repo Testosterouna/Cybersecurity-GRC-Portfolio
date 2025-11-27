@@ -6,5 +6,4 @@ The portfolio demonstrates industry-ready skills in cybersecurity writing, analy
 
 ---
 
-## 📂 Repository Structure
 
